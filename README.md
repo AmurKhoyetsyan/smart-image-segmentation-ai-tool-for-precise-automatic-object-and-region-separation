@@ -96,24 +96,24 @@ professionals make better decisions and build smarter applications.
     <tbody>
         <tr>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/385f79d9-3204-4e16-971d-98c0308bfeb9" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/ee724b9f-a12f-4180-85c3-b8ed4b847879" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/bbb44e14-ac62-4f1a-893c-b0c27f928c15" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/a08e467b-39ed-47f8-a12a-f06b7fa95043" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
